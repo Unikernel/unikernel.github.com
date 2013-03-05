@@ -6,11 +6,20 @@ h2.underlined {
   border-bottom: 1px solid #999;
 }
 
+#members td:first-child {
+      width: 64px;
+  min-width: 64px;
+  max-width: 64px;
+  padding-right: 0px;
+}
+
+#members p {
+  margin-bottom: 0px;
+}
+
 .face {
   width: 64px;
   height: 64px;
-  margin-right: 5px;
-  margin-bottom: 5px;
 }
 
 .site-thumb {
