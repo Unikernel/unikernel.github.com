@@ -1,8 +1,21 @@
+.justify {
+  text-align: justify;
+}
+
+h2.underlined {
+  border-bottom: 1px solid #999;
+}
+
 .face {
   width: 64px;
   height: 64px;
   margin-right: 5px;
   margin-bottom: 5px;
+}
+
+.site-thumb {
+  width: 200px;
+  height: 150px;
 }
 
 a.social {
