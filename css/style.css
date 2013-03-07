@@ -53,3 +53,7 @@ a.social {
 .st {
   background-image: url('https://raw.github.com/paulrobertlloyd/socialmediaicons/master/stackoverflow-48x48.png');
 }
+
+.vk {
+	background-image: url('/img/vk.png');
+}
